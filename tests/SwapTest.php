@@ -51,3 +51,5 @@ class SwapTest extends TestCase
         $swap->historical('EUR/USD', new \DateTime());
     }
 }
+nice
+    cool
